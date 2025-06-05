@@ -1,0 +1,50 @@
+Task: Identify and Remove Suspicious Browser Extensions
+
+---
+Extension Reviewed:
+
+Extension Name: Video Downloader Professional  
+Browser: Mozilla Firefox  
+
+---
+Reason Chosen:
+
+- Known for requesting excessive permissions  
+- User reviews and security blogs mention privacy concerns  
+- Not directly malicious, but flagged as potentially unwanted  
+
+---
+Steps Taken:
+
+1. Opened Firefox and navigated to "Add-ons and Themes"  
+2. Searched for "Video Downloader Professional"  
+3. Installed the extension  
+4. Observed permissions like "Access data for all websites"  
+5. Conducted web research on its security concerns  
+6. Collected screenshots:  
+   - extension-installed.png  
+   - permissions.png  
+   - research-proof.png  
+   - issues.png  
+7. Removed the extension via the Add-ons manager  
+8. Restarted Firefox and confirmed removal  
+
+---
+Performance Impact:
+
+- Noticed Firefox used **100+ MB less memory** after removing the extension  
+- Extension had significant overhead despite appearing simple  
+
+---
+Summary of Learnings:
+
+- Extensions that seem useful can pose security risks  
+- Permissions like full data access can lead to tracking or worse  
+- Always verify reviews, privacy policy, and developer trustworthiness  
+- Managing extensions is part of maintaining browser hygiene  
+- **Monitoring system performance is also crucial** for identifying suspicious behavior  
+
+---
+Conclusion:
+
+Extension was removed, Firefox performed better, and this proved how lightweight browsers should remain when free of privacy-invasive add-ons.
